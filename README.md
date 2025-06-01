@@ -1,6 +1,6 @@
 # Steam Charts MCP Server
 
-Steam Charts MCP server that lets you get statistics using your favorite LLM.
+Steam Charts Model Context Protocol server that lets you get statistics using your favorite LLM.
 
 ## How to install and use
 
